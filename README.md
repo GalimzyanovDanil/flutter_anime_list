@@ -1,3 +1,3 @@
 # flutter_anime_list
 
-A new Flutter project.
+Anime list app with 0Auth and access and refresh token
